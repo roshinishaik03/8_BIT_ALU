@@ -32,4 +32,35 @@ This project is a Verilog-based implementation of an 8-bit Arithmetic Logic Unit
 | `1101` | Concatenate B, A |
 | `1110` | Concatenate A, B |
 | `1111` | Addition of A with A |
+<br>
+---
+
+## 📁 File Structure
+
+| File Name | Description |
+|-----------|-------------|
+| alu.v | Main Verilog ALU module |
+| alu_tb.v | Testbench with all operation cases |
+| README.md | Project documentation |
+| alu_schematic.pdf | ALU schematic diagram (optional) |
+| alu_waveform.pdf | Simulation waveform results |
+
+---
+
+## 🛠️ Tools Used
+
+- **HDL:** Verilog
+- **Simulation:** ModelSim / Vivado Simulator
+- **Synthesis:** Xilinx Vivado
+- **Target FPGA:** XC7A50TCSG324-1 (Artix-7)
+
+---
+
+## 🧪 How to Simulate
+
+1. Open `alu.v` and `alu_tb.v` in your Verilog simulator.
+2. Compile both source files.
+3. Run the simulation.
+4. Observe the output waveform for each opcode.
+5. Verify that the ALU performs the expected operation for every opcode.
 
