@@ -1,4 +1,4 @@
-## 8_BIT_ALU in Verilog
+## 🧠 8_BIT_ALU in Verilog
 This project is a Verilog-based implementation of an 8-bit Arithmetic Logic Unit (ALU). It performs a variety of arithmetic and logical operations based on the input control signal (opcode). The design is structured for simulation and synthesis on Xilinx FPGAs.
 <br>
 ## ⚙️ Features
@@ -71,4 +71,4 @@ This project is a Verilog-based implementation of an 8-bit Arithmetic Logic Unit
 - **B.Tech Final Year – ECE | Aspiring VLSI Engineer**
 - [GitHub Profile](https://github.com/roshinishaik03)
 - [Linkedin Handle](https://www.linkedin.com/in/roshinishaik03)
-- roshinishaik03.email@gmail.com
+- [Email](mailto:roshinishaik03.email@gmail.com)
