@@ -67,7 +67,7 @@ This project is a Verilog-based implementation of an 8-bit Arithmetic Logic Unit
 
 ## 👩🏼‍💻 Author
 
-- ** Shaik Roshini**
+- Shaik Roshini
 - **B.Tech Final Year – ECE | Aspiring VLSI Engineer**
 - [GitHub Profile](https://github.com/roshinishaik03)
 - [Linkedin Handle](https://www.linkedin.com/in/roshinishaik03)
