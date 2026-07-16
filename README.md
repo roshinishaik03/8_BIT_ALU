@@ -63,4 +63,12 @@ This project is a Verilog-based implementation of an 8-bit Arithmetic Logic Unit
 3. Run the simulation.
 4. Observe the output waveform for each opcode.
 5. Verify that the ALU performs the expected operation for every opcode.
+---
 
+## 👩🏼‍💻 Author
+
+- **Roshini**
+- **B.Tech Final Year – ECE | Aspiring VLSI Engineer**
+- **GitHub Profile:** [Roshini](https://github.com/YOUR_GITHUB_USERNAME)
+- **LinkedIn:** [Roshini](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+- **Email:** your.email@gmail.com
