@@ -32,7 +32,7 @@ This project is a Verilog-based implementation of an 8-bit Arithmetic Logic Unit
 | `1101` | Concatenate B, A |
 | `1110` | Concatenate A, B |
 | `1111` | Addition of A with A |
-<br>
+
 ---
 
 ## 📁 File Structure
