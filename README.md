@@ -4,7 +4,7 @@ This project is a Verilog-based implementation of an 8-bit Arithmetic Logic Unit
 ## ⚙️ Features
 
 ### • Inputs:
-- `A` (8-bit)
+- A (8-bit)
 - `B` (8-bit)
 - `opcode` (4-bit control signal)
 
