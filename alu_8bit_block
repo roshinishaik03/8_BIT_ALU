@@ -1,0 +1,13 @@
++-------------------------------------------+
+ A[7:0] -------->|                                           |
+                 |                                           |
+ B[7:0] -------->|               8-BIT ALU                   |-------> Result[7:0]
+                 |                                           |
+ Opcode[2:0] --->|  Arithmetic Unit (+, -)                  |
+                 |  Logic Unit (AND, OR, XOR, NOT)          |
+                 |  Multiplexer (Select Operation)          |
+                 |                                           |
+                 +-------------------------------------------+
+                              |        |        |
+                              |        |        |
+                           Carry     Zero   Overflow
